@@ -23,7 +23,7 @@ On 27 April 2026, pgBackRest maintainer David Steele announced on [LinkedIn](htt
 
 If you’re reading this, you’re likely either affected or at least concerned. In this short write up I will do my best to calm your nerves, present short term as well as more long term ideas and options.
 
-But before diving into all of this, it’s worth pausing to say thank you. Huge kudos to David Steele and all the contributors to pgBackRest — your work has not gone unnoticed. If anything, this moment highlights an important question: how do we ensure sustainable support for open source projects like this?
+But before diving into all of this, it’s worth pausing to say thank you. Huge kudos to David Steele and all the contributors to pgBackRest, your work has not gone unnoticed. If anything, this moment highlights an important question: how do we ensure sustainable support for open source projects like this?
 
 ## Where are we now - the status quo
 pgBackRest is a critical part of the PostgreSQL ecosystem, and nobody seriously expects it to simply disappear. What happens next is now up to the community.
